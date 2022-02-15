@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Handout containing a description of the reading memos activity.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-95j-teaching-college-level-science-and-engineering-spring-2009/ddcd75dd0cb507d667e6815871e6d725_MIT5_95js09_res03.pdf
+file: /media/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/ddcd75dd0cb507d667e6815871e6d725_MIT5_95js09_res03.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Document
 title: Reading memos
 uid: ddcd75dd-0cb5-07d6-67e6-815871e6d725
