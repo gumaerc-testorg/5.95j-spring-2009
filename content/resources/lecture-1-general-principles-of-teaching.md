@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ related_resources_text: Student questions ([PDF](resources/mit5_95js09_res04 "Op
   in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: General Principles of Teaching'
 uid: 396ebbba-ce52-5afe-9562-3c19962acd37
 video_files:

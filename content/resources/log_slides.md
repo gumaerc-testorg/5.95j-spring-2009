@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Video Discussions
 parent_type: CourseSection
+parent_uid: f697ce3e-6cf8-177b-0cbd-1510a0728bfc
 resourcetype: Other
 title: Archive
 uid: 3099dda9-fe9e-7d84-b45d-324dbf03d197
