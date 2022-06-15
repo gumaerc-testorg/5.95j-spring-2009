@@ -4,12 +4,12 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Discussions
 parent_type: CourseSection
-related_resources_text: Student questions ([PDF](resources/mit5_95js09_res04 "Open
-  in a new window."))
+related_resources_text: Student questions ([PDF](/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/resources/mit5_95js09_res04))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -27,3 +27,6 @@ video_metadata:
 **Topics covered:** General principles of teaching  
   
 **Instructor:** Dr. Sanjoy Mahajan
+
+
+

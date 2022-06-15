@@ -4,12 +4,13 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Discussions
 parent_type: CourseSection
-related_resources_text: Logarithm of factorials example slides ([PDF](resources/mit5_95js09_slide08
-  "Open in a new window.")), Archive ([ZIP](resources/log_slides "Open in a new window."))
+related_resources_text: Logarithm of factorials example slides ([PDF](/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/resources/mit5_95js09_slide08)),
+  Archive ([ZIP](/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/resources/log_slides))
   (The archive log\_slides.zip contains 2 .tex files (env.tex and log.tex), 1 .mp
   file (fig.mp), a UNIX shell script (makefile), and a text file (README).)
 resource_index_text: ''
@@ -29,3 +30,6 @@ video_metadata:
 **Topics covered:** Teaching with blackboards and slides  
   
 **Instructor:** Dr. Sanjoy Mahajan
+
+
+

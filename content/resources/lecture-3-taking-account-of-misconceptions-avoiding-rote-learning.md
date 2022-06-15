@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Discussions
@@ -26,3 +27,6 @@ video_metadata:
 **Topics covered:** Taking account of misconceptions; avoiding rote learning  
   
 **Instructor:** Dr. Sanjoy Mahajan
+
+
+
