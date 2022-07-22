@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, handouts, classroom routine, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ba090722-0661-9b08-9574-d25bbee792cc
 ---
@@ -37,7 +41,7 @@ COMMENTS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Lesson plan ([PDF]({{< baseurl >}}/resources/mit5_95js09_res01))
+Lesson plan ({{% resource_link 8235e267-fed6-297b-2aa3-05c0f8f01c52 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Teachers make lesson plans. Here is a form for a sample lesson.
@@ -46,7 +50,7 @@ Teachers make lesson plans. Here is a form for a sample lesson.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Feedback form ([PDF]({{< baseurl >}}/resources/mit5_95js09_res02))
+Feedback form ({{% resource_link a4ce017e-c367-f9d4-bab4-46d8375b6d14 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 After class is over, students can give feedback on the lesson's strong and weak points. Here is a form to aid students in giving comments.
@@ -55,7 +59,7 @@ After class is over, students can give feedback on the lesson's strong and weak 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Reading memo ([PDF]({{< baseurl >}}/resources/mit5_95js09_res03))
+Reading memo ({{% resource_link ddcd75dd-0cb5-07d6-67e6-815871e6d725 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 If there are lecture notes, students and instructors can benefit from student comments about the material. Here is a description of the reading memos activity.
@@ -74,4 +78,4 @@ At the beginning of each class, I answer questions from the feedback forms from 
 Grading
 -------
 
-The grading for this course is Pass/D/Fail. Everyone passes by completing the assignments. For further information about course philosophy, refer to "Everyone Should Get an A" by David MacKay. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.inference.phy.cam.ac.uk/mackay/exams.pdf))
+The grading for this course is Pass/D/Fail. Everyone passes by completing the assignments. For further information about course philosophy, refer to "Everyone Should Get an A" by David MacKay. ([PDF](http://www.inference.phy.cam.ac.uk/mackay/exams.pdf))

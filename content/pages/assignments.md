@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the assignments for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8577bc93-83b0-863f-794d-25d009ad0f8f
 ---
@@ -28,7 +32,7 @@ FILES
 Teaching equations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_95js09_hw01))
+({{% resource_link ce08e355-bb8a-d9b4-9e92-713c87a0c23b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +50,7 @@ Teaching equations
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_95js09_hw02))
+({{% resource_link d30f74cb-4382-9dcf-8660-6af1d738d9fd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +68,7 @@ Redesigning problems
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_95js09_hw03))
+({{% resource_link bc653b6d-e7e1-bd37-4416-53e7962c2233 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ Redesigning problems
 Big ideas
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_95js09_hw04))
+({{% resource_link 185c81af-1b2b-d33d-daa4-567f1d8d4284 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +92,7 @@ Big ideas
 Lecture planning and performing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_95js09_hw05))
+({{% resource_link 543cde24-440f-44af-3c4b-fd907238dc44 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +110,7 @@ Using blackboards
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_95js09_hw06))
+({{% resource_link 8dfaff69-f526-e8b4-ca0a-cb3af69de054 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +122,7 @@ Using blackboards
 Political barriers to educational change
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_95js09_hw07))
+({{% resource_link 85d7c4cf-dc4d-14c3-394c-4ce25402615d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +140,7 @@ Reflective memo
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_95js09_hw08))
+({{% resource_link 8aedcd98-03ee-fb81-6665-4cbe2fd7d111 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
