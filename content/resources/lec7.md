@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: 'Lecture 7: Lecture planning and performing'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: lec7
 uid: 78a207b5-229e-4d08-0380-97104c8cbccd
 ---
 Thumbnail image accompanying a video lecture.
-

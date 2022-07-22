@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: 'Lecture 8: Teaching with blackboards and slides'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: lec8
 uid: 27514314-17f2-1d51-193d-e395b82e7b11
 ---
 Thumbnail image accompanying a video lecture.
-

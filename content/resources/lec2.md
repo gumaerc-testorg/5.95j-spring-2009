@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: 'Lecture 2: Teaching Equations'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: lec2
 uid: e4ce3506-8c7b-c620-2228-89fe6e832fd4
 ---
 Thumbnail image accompanying a video lecture.
-

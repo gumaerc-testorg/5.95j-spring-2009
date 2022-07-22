@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: 'Lecture 1: General Principles of Teaching'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: lec1
 uid: 40a42515-6769-2e12-6095-2e667662f714
 ---
 Thumbnail image accompanying a video lecture.
-
