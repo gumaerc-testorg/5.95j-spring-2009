@@ -2,6 +2,7 @@
 content_type: resource
 description: Transcript of a video lecture on teaching equations.
 file: /courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/74cdadae3528fc3d07748cb81bacb11c_gyboshu425k.pdf
+file_size: 202459
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
