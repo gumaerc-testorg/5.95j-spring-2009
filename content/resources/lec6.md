@@ -2,6 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a video lecture.
 file: /courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/22fd99b36afb60072b9c96c4e3cea761_lec6.jpg
+file_size: 11810
 file_type: image/jpeg
 image_metadata:
   caption: ''

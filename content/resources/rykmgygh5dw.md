@@ -2,6 +2,7 @@
 content_type: resource
 description: Transcript of a video lecture on planning and performing a lecture.
 file: /courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/dcbfb76dfc57276f1076112676e0c4a5_RyKmgyGH5dw.srt
+file_size: 145854
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
