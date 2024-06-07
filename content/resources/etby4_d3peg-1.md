@@ -3,6 +3,7 @@ content_type: resource
 description: Transcript of a video lecture on taking account of misconceptions and
   avoiding rote learning.
 file: /courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/b463cb5645ab572d9f8af8f28c9b05ca_etbY4_d3peg.pdf
+file_size: 104485
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: Transcript of a video lecture on teaching with blackboards and slides.
 file: /courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/d28e7db8893e95f082661c34bf021efe_QcRteDU9Eco.pdf
+file_size: 146298
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

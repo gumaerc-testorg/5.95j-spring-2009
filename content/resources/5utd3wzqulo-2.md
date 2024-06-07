@@ -3,6 +3,7 @@ content_type: resource
 description: Transcript of a video lecture on teaching interactively in large and
   small groups.
 file: /courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/326a3d0d38e05883a65ca5126cec4c64_5uTd3WzQulo.vtt
+file_size: 116151
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

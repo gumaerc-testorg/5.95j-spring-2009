@@ -2,6 +2,7 @@
 content_type: resource
 description: Transcript of a video lecture on course design.
 file: /courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/e019bfc8fb4c58beaaf8de61264cd366_V-eWuHXZGnw.vtt
+file_size: 99767
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
