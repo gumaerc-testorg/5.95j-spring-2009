@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example slides on logarithm of factorials.
-file: /courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/a1d74c51a3a0a40bbafddf445b0947f6_MIT5_95js09_slide08.pdf
+file: /ol-ocw-studio-app/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/a1d74c51a3a0a40bbafddf445b0947f6_MIT5_95js09_slide08.pdf
 file_size: 104528
 file_type: application/pdf
 learning_resource_types: []
