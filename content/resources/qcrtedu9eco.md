@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Transcript of a video lecture on teaching with blackboards and slides.
-file: /courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/d2f35263359b6dcb2adb9a76ea6be349_QcRteDU9Eco.srt
+file: /ol-ocw-studio-app/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/d2f35263359b6dcb2adb9a76ea6be349_QcRteDU9Eco.srt
 file_size: 153324
 file_type: application/x-subrip
 learning_resource_types: []
