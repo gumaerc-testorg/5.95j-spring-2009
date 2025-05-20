@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Transcript of a video lecture on designing homework and exam problems.
-file: /ol-ocw-studio-app/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/6232666e1a65236e3ce7c12cd962026c_8YQf4xOEhag.srt
+file: /courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/6232666e1a65236e3ce7c12cd962026c_8YQf4xOEhag.srt
 file_size: 157327
 file_type: application/x-subrip
 learning_resource_types: []
