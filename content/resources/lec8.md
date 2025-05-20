@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying a video lecture.
-file: /ol-ocw-studio-app/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/2751431417f21d51193de395b82e7b11_lec8.jpg
+file: /courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/2751431417f21d51193de395b82e7b11_lec8.jpg
 file_size: 11191
 file_type: image/jpeg
 image_metadata:
