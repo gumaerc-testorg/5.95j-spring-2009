@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Transcript of a video lecture with a course summary and student questions.
-file: /courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/01f0db818a40e9979c91bd196cbc9cfb_IXjwZlJ9Uvk.pdf
+file: /ol-ocw-studio-app/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/01f0db818a40e9979c91bd196cbc9cfb_IXjwZlJ9Uvk.pdf
 file_size: 126262
 file_type: application/pdf
 learning_resource_types: []

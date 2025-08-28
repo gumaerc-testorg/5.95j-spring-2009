@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Transcript of a video lecture on political barriers to educational change.
-file: /courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/213053e7c8482a1982199ec49ecbc837_PaYY0e9eE2A.pdf
+file: /ol-ocw-studio-app/courses/5-95j-teaching-college-level-science-and-engineering-spring-2009/213053e7c8482a1982199ec49ecbc837_PaYY0e9eE2A.pdf
 file_size: 172545
 file_type: application/pdf
 learning_resource_types: []
