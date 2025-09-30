@@ -49,17 +49,17 @@ Teaching equations
 
 ### Chunking
 
-Miller, George A. "[The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information](http://psychclassics.yorku.ca/Miller/)." _Psychological Review_ 63 (1956): 81-97.
+Miller, George A. "{{% resource_link "2984235b-b787-47a5-8a37-2bcab8922455" "The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information" %}}." _Psychological Review_ 63 (1956): 81-97.
 
 ### Benezet experiment
 
 Parts I and III are required. Part II is optional.
 
-Benezet, L. P. "[The Teaching of Arithmetic I: The Story of an Experiment](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/1.html)." _Journal of the National Education_ 24, no. 8 (November 1935): 241-244. ([PDF](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/1.pdf))
+Benezet, L. P. "{{% resource_link "22f1dada-26cf-4c52-9a06-7e0e50d42046" "The Teaching of Arithmetic I: The Story of an Experiment" %}}." _Journal of the National Education_ 24, no. 8 (November 1935): 241-244. ({{% resource_link "a362688d-fb18-4c01-9b38-6d4f730493d8" "PDF" %}})
 
-———. "[The Teaching of Arithmetic II: The Story of an Experiment](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/2.html)." _Journal of the National Education_ 24, no. 9 (December 1935): 301-303. ([PDF](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/2.pdf))
+———. "{{% resource_link "a3e5d08c-ec71-441e-9bf9-a286046f3739" "The Teaching of Arithmetic II: The Story of an Experiment" %}}." _Journal of the National Education_ 24, no. 9 (December 1935): 301-303. ({{% resource_link "a3941514-a06a-4a6f-b795-8524fde291f1" "PDF" %}})
 
-———. "[The Teaching of Arithmetic III: The Story of an Experiment](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/3.html)." _Journal of the National Education 25_, no. 1 (January 1936): 7-8. ([PDF](http://www.inference.phy.cam.ac.uk/sanjoy/benezet/3.pdf))
+———. "{{% resource_link "e62ea9e8-61ab-441c-9a4e-cd28f884f1f0" "The Teaching of Arithmetic III: The Story of an Experiment" %}}." _Journal of the National Education 25_, no. 1 (January 1936): 7-8. ({{% resource_link "2e561af9-05ca-4ff5-b8c1-f691d0c71f23" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -193,7 +193,7 @@ Teaching with blackboards and slides
 
 ### Edward Tufte's analysis of powerpoint-based communication
 
-[PowerPoint Does Rocket Science—and Better Techniques for Technical Reports](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB&topic_id=1&topic=Ask+E.T.)
+{{% resource_link "535801b2-828c-476b-9a9d-e2788cb50651" "PowerPoint Does Rocket Science—and Better Techniques for Technical Reports" %}}
 
 ### Jean-Luc doumont on slides
 
@@ -215,7 +215,7 @@ Political barriers to educational change
 
 ### Tactics for change
 
-Halfman, Robert L., M. L. A. MacVicar, W. T. Martin, Edwin F. Taylor, and Jerrold R. Zacharias. "[Tactics for Change](http://www.eftaylor.com/pub/TacticsForChange.htm)." Occasional Paper No. 11 of the Education Research Center, Massachusetts Institute of Technology, 1972. ([PDF](http://www.eftaylor.com/pub/TacticsForChange.pdf))
+Halfman, Robert L., M. L. A. MacVicar, W. T. Martin, Edwin F. Taylor, and Jerrold R. Zacharias. "{{% resource_link "4eae014f-fd9f-450e-b1d2-07097269dc72" "Tactics for Change" %}}." Occasional Paper No. 11 of the Education Research Center, Massachusetts Institute of Technology, 1972. ({{% resource_link "547e11c3-b480-4839-bee4-c48ffb12130e" "PDF" %}})
 
 ### Education and the rise of the corporate state
 
@@ -227,11 +227,11 @@ Nasaw, David. _Schooled to Order: A Social History of Public Schooling in the Un
 
 ### Only for my kid
 
-Kohn, Alfie. "[Only for My Kid: How Privileged Parents Undermine School Reform](https://www.alfiekohn.org/article/kid/)." _Phi Delta Kappan_ 79, no. 8 (April 1998): 568-577.
+Kohn, Alfie. "{{% resource_link "8a822322-bf40-4d9e-901d-e19072f5c2ab" "Only for My Kid: How Privileged Parents Undermine School Reform" %}}." _Phi Delta Kappan_ 79, no. 8 (April 1998): 568-577.
 
 ### Against competition
 
-Kohn, Alfie. "[The Case Against Competition](https://www.alfiekohn.org/article/case-competition/)." _Working Mother_, September 1987.
+Kohn, Alfie. "{{% resource_link "f9ceb9bf-9075-4d40-a479-3d810117822e" "The Case Against Competition" %}}." _Working Mother_, September 1987.
 
 
 {{< tdclose >}}

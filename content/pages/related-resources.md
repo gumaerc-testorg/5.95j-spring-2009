@@ -39,7 +39,7 @@ Kohn, Alfie. _No Contest: The Case Against Competition_. 2nd rev. ed. Boston, MA
 
 Webb, Walter Prescott. _The Great Frontier_. Reno, NV: University of Nevada Press, 2003. ISBN: 9780874175196.
 
-Whitten, B. L., S. R. Foster, M. L. Duncombe, P. E. Allen, P. Heron, L. McCullough, K. A. Shaw, B. A. P. Taylor, and H. M. Zorn. "[What Works? Increasing the Participation by Women in Undergraduate Physics](http://adsabs.harvard.edu/abs/2003APS..DMP.M3002W)." _Journal of Women and Minorities in Science and Engineering_ 9 (2003): 239-258.
+Whitten, B. L., S. R. Foster, M. L. Duncombe, P. E. Allen, P. Heron, L. McCullough, K. A. Shaw, B. A. P. Taylor, and H. M. Zorn. "{{% resource_link "661a0f3f-2ff5-42c0-9370-4564812b187f" "What Works? Increasing the Participation by Women in Undergraduate Physics" %}}." _Journal of Women and Minorities in Science and Engineering_ 9 (2003): 239-258.
 
 Communication
 -------------
