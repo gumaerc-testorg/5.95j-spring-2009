@@ -78,4 +78,4 @@ At the beginning of each class, I answer questions from the feedback forms from 
 Grading
 -------
 
-The grading for this course is Pass/D/Fail. Everyone passes by completing the assignments. For further information about course philosophy, refer to "Everyone Should Get an A" by David MacKay. ({{% resource_link "6f13c23e-f579-49c0-9e4f-c81cb0fca42b" "PDF" %}})
+The grading for this course is Pass/D/Fail. Everyone passes by completing the assignments. For further information about course philosophy, refer to "Everyone Should Get an A" by David MacKay. ([PDF](http://www.inference.phy.cam.ac.uk/mackay/exams.pdf))
